@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"  />
+  <img width="100%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"  />
 </div>
 
 ###
@@ -16,6 +16,7 @@
 ###
 
 <div align="left">
+  Web Development:
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -30,6 +31,7 @@
 ###
 
 <div align="left">
+  Game Development:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
@@ -42,6 +44,7 @@
 ###
 
 <div align="left">
+  Source Control:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sourcetree/0052CC" height="30" alt="sourcetree logo"  />
