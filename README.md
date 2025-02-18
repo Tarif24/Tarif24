@@ -18,6 +18,7 @@
 
 ###
 
+<br/>
 <div align="left">
   <h2>Web Development:</h2>
   <br/>
@@ -36,6 +37,7 @@
 
 <div align="left">
   <h2>Game Development:</h2>
+  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
@@ -49,6 +51,7 @@
 
 <div align="left">
   <h2>Source Control</h2>
+  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sourcetree/0052CC" height="30" alt="sourcetree logo"  />
@@ -56,7 +59,11 @@
 
 ###
 
+<br/>
+<br/>
 <div align="left">
+  <h2>Socials:</h2>
+  <br/>
   <a href="https://www.instagram.com/tarif1024/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo">
   </a>
