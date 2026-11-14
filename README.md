@@ -5,16 +5,15 @@
 ###
 
 <br/>
-<h1 align="left">Hi 👋! My name is Tarif, and I'm a full-stack web developer from Toronto</h1>
+<h1 align="left">Hi 👋! My name is Tarif, and I'm a full stack web developer from Toronto</h1>
 
 ###
 
 <br/>
-<!-- <br/>
+<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarif24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarif24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tarif24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -50,9 +49,19 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" height="30" alt="socket.io logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="30" alt="jwt logo"  />
+</div>
+
+###
+
+<div align="left">
+  <h2>Database</h2>
+  <br/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="mongoDB logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="30" alt="jwt logo"  />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="postgre logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" height="30" alt="prisma logo"  />
 </div>
 
 ###
@@ -80,6 +89,8 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white" height="30" alt="perforce logo"  />
 </div>
 
 ###
